@@ -20,7 +20,7 @@ pinout:
   ui[2]: "Operand A bit 1 (MSB)"
   ui[3]: "Operand A bit 2"
   ui[4]: "Operand A bit 3 (LSB)"
-  ui[5]: "Operand A bit 1 (MSB)"
+  ui[5]: "Operand B bit 1 (MSB)"
   ui[6]: "Operand B bit 2"
   ui[7]: "Operand B bit 3 (LSB)"
 
