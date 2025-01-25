@@ -2,6 +2,7 @@
 
 # Tiny Tapeout Wokwi Project Template
 
+Tinytape out for octal 3 bit alu 
 - [Read the documentation for project](docs/info.md)
 
 ## What is Tiny Tapeout?
